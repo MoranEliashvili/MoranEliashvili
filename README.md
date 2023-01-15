@@ -1,5 +1,7 @@
 ### Hi there 👋
 ### I'm Moran Eliashvili, a full stack web developer
+- 🔭 I’m currently looking for my next challenge
+- 🌱 I've M.Sc in System Engineering and B.Sc in Biotechnology Engineering
 
 
 ## My Skill Set  
@@ -39,11 +41,6 @@
 </a>  
 </div>  
   
-
- 
-
-
-
 
 <!--
 **MoranEliashvili/MoranEliashvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
